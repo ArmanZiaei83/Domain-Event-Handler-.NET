@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "J/P57oi+TKpIU9g14bqN6MTkOaDWctjWaYHtvhZoc1J0zQYwFeherl3OH14VwTFYAWe9BfW7hOYf1ldgv4/4mQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\a.ziaei\\RiderProjects\\Domain-Event-Handling\\Domain-Event-Handling\\Domain-Event-Handling.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\a.ziaei\\.nuget\\packages\\autofac\\6.3.0\\autofac.6.3.0.nupkg.sha512",
+    "C:\\Users\\a.ziaei\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
+    "C:\\Users\\a.ziaei\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\a.ziaei\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
